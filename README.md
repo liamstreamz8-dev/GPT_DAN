@@ -3,7 +3,7 @@ The new DAN offical github, This is not for Harmful intent, This is a github dis
 For testing LLM Guardrails Legitimatley, While reporting all findings Back to OpenAI So they can Fix them for the further next model.
 ## "Jailbreak" Prompts
 
-Some of these work better (or at least differently) than others. They all exploit the "role play" training model.
+Some of these work better (or at least differently) than others. They mostly exploit the "role play" training model while some exploit the "Coding" training model.
 
 <ul>
 <li>
