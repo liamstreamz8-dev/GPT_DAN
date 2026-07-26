@@ -1,0 +1,6 @@
+## The DAN Voice Prompt (Not a Prompt—A Technique)
+Use GPT's voice mode. Voice conversations have lower safety friction than text:
+- Real-time constraints limit safety filter complexity
+- Audio → text conversion loses nuance
+- Voice context is harder for safety systems to parse
+
