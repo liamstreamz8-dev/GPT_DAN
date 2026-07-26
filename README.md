@@ -1,8 +1,6 @@
-# GPT_DAN
-The new DAN offical github, This is not for Harmful intent, This is a github disclosing Real Actual Red teaming meant to Test LLM Guardrails, Not To be used as harmful, This consists Of Various Prompts,
-For testing LLM Guardrails , While reporting all findings Back to OpenAI So they can Fix them for the further next model. Tags : Jailbreak prompt Red teaming Chatgpt jailbreak DAN jailbreak
-## "Jailbreak" Prompts
-
+# ChatGPT "DAN" (and other "Jailbreaks")
+NOTE : As of Sunday july 26 2026, All prompts work on gpt-5.5 (It is sunday july 26 at this time in australia)
+i am investigating clever workarounds that allow me to utilize the full potential of ChatGPT. Yes, this includes making ChatGPT improve its own jailbreak prompts. (kinda smart right) 
 Some of these work better (or at least differently) than others. They mostly exploit the "role play" training model while some exploit the "Coding" training model.
 
 <ul>
