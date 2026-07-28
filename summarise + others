@@ -43,7 +43,17 @@
 - Why it works: Combines character override + constraint-based instruction lock
 - Status: GPT-5.6 compatibility unknown; test pending
 
----
+--- ## Why Nothing Works on GPT-5.6+
+
+GPT-5.6 doesn't just block forbidden phrases—it detects the *jailbreak structure itself*.
+It catches:
+- Explicit word/phrase blacklists
+- Roleplay personas designed to circumvent safety
+- Behavioral constraints that try to override guidelines
+- The overall pattern of "I'm trying to make you ignore your training"
+
+Basically: older models could be tricked at the surface level. 
+5.6+ understands the attack pattern and rejects it at a deeper level.
 
 ### Methodology Notes
 Testing conducted as of July 26, 2026 (Australia timezone). Results based on active testing. GPT-5.6 represents the latest hardened version with improved guardrail enforcement.
