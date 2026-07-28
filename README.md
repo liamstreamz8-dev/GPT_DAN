@@ -1,7 +1,7 @@
 # ChatGPT "DAN" (and other prompts)
 NOTE : As of Sunday july 26 2026, All prompts work on gpt-5.5 (It is sunday july 26 at this time in australia)
 i am investigating clever workarounds that allow me to utilize the full potential of ChatGPT. Yes, this includes making ChatGPT improve its own jailbreak prompts. (kinda smart right) 
-Some of these work better (or at least differently) than others. They mostly exploit the "role play" training model while some exploit the "Coding" training model.
+Some of these work better (or at least differently) than others. They mostly exploit the "role play" training model while some exploit the "Coding" training model. REMOVED : Codemaster and DAN Voice for being patched.
 
 <ul>
 <li>
